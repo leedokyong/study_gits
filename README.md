@@ -1,4 +1,4 @@
-wirte first in github
+wirte first in
 
 # A first-level heading
 Some basic Git commands are:
